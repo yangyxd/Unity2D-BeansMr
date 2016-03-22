@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: 0d7ef1fca0971a04b819c2bdfb3685dc
+timeCreated: 1458100232
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: part_flame_0
+    21300002: part_flame_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: part_flame_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 105
+        width: 227
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 50.5}
+        - {x: -60.5, y: 18.5}
+        - {x: -56.5, y: 9.5}
+        - {x: -92.5, y: 9.5}
+        - {x: -104.5, y: 4.5}
+        - {x: -113.5, y: -8.5}
+        - {x: -113.5, y: -24.5}
+        - {x: 5.5, y: -50.5}
+        - {x: 9.5, y: -50.5}
+        - {x: 14.5, y: -42.5}
+        - {x: 25.5, y: -39.5}
+        - {x: 18.5, y: -41.5}
+        - {x: 14.5, y: -48.5}
+        - {x: 15.5, y: -50.5}
+        - {x: 107.5, y: -50.5}
+        - {x: 113.5, y: -35.5}
+        - {x: 113.5, y: 29.5}
+        - {x: 108.5, y: 50.5}
+    - name: part_flame_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2
+        width: 202
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101, y: 50.5}
+        - {x: -101, y: -38.5}
+        - {x: -96, y: -50.5}
+        - {x: 101, y: -50.5}
+        - {x: 101, y: 35.5}
+        - {x: 76, y: 50.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

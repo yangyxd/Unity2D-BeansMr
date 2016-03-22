@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 0b19be65b872b294dad6125f2611bdb0
+timeCreated: 1458221254
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bus
+    21300002: Wheels
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bus
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 134
+        width: 504
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 216, y: -170}
+        - {x: 219, y: -169}
+        - {x: 218, y: -153}
+        - {x: 216, y: -144}
+        - {x: 216, y: -117}
+        - {x: 217, y: -108}
+        - {x: 218, y: -56}
+        - {x: 220, y: -37}
+        - {x: 223, y: -18}
+        - {x: 227, y: 5}
+        - {x: 230, y: 17}
+        - {x: 233, y: 33}
+        - {x: 237, y: 44}
+        - {x: 236, y: 49}
+        - {x: 247, y: 87}
+        - {x: 248, y: 101}
+        - {x: 252, y: 107}
+        - {x: 252, y: 152}
+        - {x: 250, y: 152}
+        - {x: 245, y: 148}
+        - {x: 239, y: 156}
+        - {x: 226, y: 166}
+        - {x: 214, y: 168}
+        - {x: 206, y: 169}
+        - {x: -50, y: 169}
+        - {x: -51, y: 170}
+        - {x: -66, y: 172}
+        - {x: -140, y: 172}
+        - {x: -141, y: 173}
+        - {x: -181, y: 173}
+        - {x: -199, y: 161}
+        - {x: -209, y: 151}
+        - {x: -216, y: 140}
+        - {x: -224, y: 122}
+        - {x: -227, y: 111}
+        - {x: -228, y: 105}
+        - {x: -228, y: 25}
+        - {x: -229, y: 20}
+        - {x: -224, y: 13}
+        - {x: -208, y: 4}
+        - {x: -208, y: -4}
+        - {x: -206, y: -8}
+        - {x: -206, y: -60}
+        - {x: -210, y: -67}
+        - {x: -244, y: -73}
+        - {x: -252, y: -81}
+        - {x: -252, y: -166}
+        - {x: -248, y: -170}
+        - {x: -192, y: -170}
+        - {x: -192, y: -172}
+        - {x: -185, y: -171}
+        - {x: -183, y: -169}
+        - {x: -137, y: -169}
+        - {x: -124, y: -170}
+        - {x: 107, y: -170}
+        - {x: 107, y: -173}
+        - {x: 112, y: -173}
+        - {x: 115, y: -164}
+        - {x: 155, y: -164}
+        - {x: 171, y: -170}
+    - name: Wheels
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 353
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.5, y: 28.5}
+        - {x: -176.5, y: 17.5}
+        - {x: -176.5, y: -17.5}
+        - {x: -163.5, y: -30.5}
+        - {x: -117.5, y: -30.5}
+        - {x: -113.5, y: -19.5}
+        - {x: -113.5, y: 16.5}
+        - {x: -125.5, y: 28.5}
+      - - {x: 126.5, y: 30.5}
+        - {x: 122.5, y: 29.5}
+        - {x: 114.5, y: 7.5}
+        - {x: 114.5, y: -7.5}
+        - {x: 124.5, y: -30.5}
+        - {x: 175.5, y: -30.5}
+        - {x: 176.5, y: -26.5}
+        - {x: 176.5, y: 25.5}
+        - {x: 167.5, y: 30.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

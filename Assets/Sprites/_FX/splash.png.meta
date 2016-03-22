@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 116a02f3ca9d9074b9df04129c7cc889
+timeCreated: 1458114926
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: splash_0
+    21300002: splash_1
+    21300004: splash_2
+    21300006: splash_3
+    21300008: splash_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: splash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 341.33334
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 48}
+        - {x: 16, y: 71}
+        - {x: -119, y: 71}
+        - {x: -119, y: -92}
+        - {x: 95, y: -92}
+        - {x: 95, y: -51}
+        - {x: 76, y: -40}
+    - name: splash_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 256
+        width: 341.33334
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: -37}
+        - {x: 68, y: -40}
+        - {x: 66, y: -46}
+        - {x: 91, y: -51}
+        - {x: 83, y: -51}
+        - {x: 46, y: -41}
+        - {x: 94, y: 46}
+        - {x: 67, y: 104}
+        - {x: -36, y: 104}
+        - {x: -68, y: 33}
+        - {x: -30, y: -32}
+        - {x: -48, y: -40}
+        - {x: -92, y: -48}
+        - {x: -95, y: -50}
+        - {x: -98, y: -50}
+        - {x: -74, y: -43}
+        - {x: -70, y: -42}
+        - {x: -55, y: -41}
+        - {x: -52, y: -38}
+        - {x: -49, y: -31}
+        - {x: -71, y: -20}
+        - {x: -144, y: -38}
+        - {x: -145, y: -39}
+        - {x: -145, y: -68}
+        - {x: -135, y: -82}
+        - {x: -95, y: -92}
+        - {x: 94, y: -92}
+        - {x: 154, y: -76}
+        - {x: 154, y: -51}
+        - {x: 128, y: -35}
+    - name: splash_2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 256
+        width: 341.33334
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: -40}
+        - {x: 69, y: -52}
+        - {x: 71, y: 26}
+        - {x: 63, y: 31}
+        - {x: 51, y: 39}
+        - {x: 71, y: 73}
+        - {x: 64, y: 95}
+        - {x: 55, y: 104}
+        - {x: 38, y: 104}
+        - {x: 15, y: 97}
+        - {x: -8, y: 70}
+        - {x: -15, y: 90}
+        - {x: -28, y: 104}
+        - {x: -75, y: 104}
+        - {x: -110, y: 15}
+        - {x: -53, y: -50}
+        - {x: -95, y: -49}
+        - {x: -99, y: -63}
+        - {x: -130, y: -53}
+        - {x: -75, y: -46}
+        - {x: -69, y: -34}
+        - {x: -101, y: -28}
+        - {x: -169, y: -37}
+        - {x: -170, y: -38}
+        - {x: -170, y: -86}
+        - {x: -137, y: -101}
+        - {x: 147, y: -101}
+        - {x: 171, y: -90}
+        - {x: 171, y: -59}
+        - {x: 143, y: -35}
+      - - {x: -73, y: 67}
+        - {x: -82, y: 69}
+        - {x: -91, y: 69}
+        - {x: -98, y: 65}
+        - {x: -98, y: 44}
+        - {x: -63, y: 44}
+        - {x: -63, y: 55}
+        - {x: -67, y: 60}
+      - - {x: -15, y: 78}
+        - {x: -17, y: 76}
+        - {x: -17, y: 73}
+        - {x: -14, y: 70}
+        - {x: -12, y: 70}
+        - {x: -10, y: 72}
+        - {x: -10, y: 76}
+        - {x: -12, y: 78}
+    - name: splash_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 341.33334
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 17}
+        - {x: 11, y: 16}
+        - {x: 13, y: 18}
+        - {x: 21, y: 23}
+        - {x: 15, y: 35}
+        - {x: -17, y: 35}
+        - {x: -53, y: 28}
+        - {x: -63, y: 20}
+        - {x: -98, y: -17}
+        - {x: -98, y: -86}
+        - {x: -89, y: -91}
+        - {x: 73, y: -91}
+        - {x: 73, y: -38}
+        - {x: 41, y: 16}
+      - - {x: -87, y: 24}
+        - {x: -108, y: 12}
+        - {x: -108, y: -11}
+        - {x: -104, y: -12}
+        - {x: -81, y: -12}
+        - {x: -78, y: -7}
+        - {x: -78, y: 24}
+      - - {x: -84, y: 125}
+        - {x: -86, y: 118}
+        - {x: -86, y: 96}
+        - {x: -81, y: 93}
+        - {x: -57, y: 85}
+        - {x: -41, y: 85}
+        - {x: -41, y: 108}
+        - {x: -62, y: 125}
+      - - {x: 69, y: 106}
+        - {x: 69, y: 94}
+        - {x: 71, y: 93}
+        - {x: 107, y: 93}
+        - {x: 113, y: 96}
+        - {x: 113, y: 110}
+        - {x: 112, y: 113}
+        - {x: 107, y: 119}
+        - {x: 90, y: 119}
+        - {x: 75, y: 116}
+    - name: splash_4
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 341.33334
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -24}
+        - {x: -82, y: -47}
+        - {x: -82, y: -70}
+        - {x: -47, y: -82}
+        - {x: 25, y: -82}
+        - {x: 63, y: -72}
+        - {x: 63, y: -49}
+        - {x: 9, y: -24}
+      - - {x: -93, y: -19}
+        - {x: -105, y: -19}
+        - {x: -107, y: -29}
+        - {x: -107, y: -46}
+        - {x: -103, y: -48}
+        - {x: -94, y: -48}
+        - {x: -88, y: -45}
+        - {x: -88, y: -31}
+      - - {x: -25, y: -8}
+        - {x: -27, y: -12}
+        - {x: -27, y: -23}
+        - {x: -23, y: -26}
+        - {x: -13, y: -26}
+        - {x: -12, y: -23}
+        - {x: -12, y: -9}
+        - {x: -14, y: -8}
+      - - {x: 125, y: 76}
+        - {x: 125, y: 57}
+        - {x: 127, y: 50}
+        - {x: 131, y: 48}
+        - {x: 142, y: 48}
+        - {x: 147, y: 50}
+        - {x: 147, y: 67}
+        - {x: 142, y: 76}
+      - - {x: -105, y: 93}
+        - {x: -122, y: 80}
+        - {x: -122, y: 67}
+        - {x: -117, y: 66}
+        - {x: -103, y: 66}
+        - {x: -89, y: 86}
+        - {x: -89, y: 92}
+        - {x: -91, y: 93}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

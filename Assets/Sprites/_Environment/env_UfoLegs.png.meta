@@ -1,0 +1,101 @@
+fileFormatVersion: 2
+guid: ee41dc0a88c6c154cb35a8ca853f145a
+timeCreated: 1458093767
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: env_UfoLegs_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: env_UfoLegs_0
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 205
+        width: 971
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 199.5, y: -73.5}
+        - {x: 198.5, y: -70.5}
+        - {x: 192.5, y: -70.5}
+        - {x: 191.5, y: -73.5}
+      - - {x: 171.5, y: 54.5}
+        - {x: 171.5, y: -22.5}
+        - {x: 184.5, y: -65.5}
+        - {x: 245.5, y: -65.5}
+        - {x: 245.5, y: -48.5}
+        - {x: 209.5, y: 54.5}
+      - - {x: -203.5, y: 50.5}
+        - {x: -208.5, y: 49.5}
+        - {x: -244.5, y: -54.5}
+        - {x: -244.5, y: -63.5}
+        - {x: -184.5, y: -63.5}
+        - {x: -183.5, y: -34.5}
+        - {x: -183.5, y: 50.5}
+      - - {x: -360.5, y: 66.5}
+        - {x: -376.5, y: 67.5}
+        - {x: -412.5, y: 67.5}
+        - {x: -485.5, y: -47.5}
+        - {x: -485.5, y: -62.5}
+        - {x: -408.5, y: -62.5}
+        - {x: -359.5, y: 59.5}
+        - {x: -359.5, y: 63.5}
+      - - {x: 366.5, y: 73.5}
+        - {x: 345.5, y: 71.5}
+        - {x: 345.5, y: 52.5}
+        - {x: 414.5, y: -62.5}
+        - {x: 485.5, y: -62.5}
+        - {x: 485.5, y: -53.5}
+        - {x: 441.5, y: 73.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
